@@ -7,6 +7,7 @@ package main
 import (
 	"fmt"
 	"os"
+	"strings"
 )
 
 func main() {
@@ -22,4 +23,8 @@ func main() {
 	// Print arguments in a single string
 	fmt.Printf("Program name: %s\n", os.Args[0])
 	fmt.Printf("CLI options: %s\n", argsString)
+	// We could rewrite this using Join obviously
+	//NOTE: here we have a slice too
+	argsString = strings.Join(os.Args[1:], " ")
+	fmt.Printf("Joined CLI options: %s\n", argsString)
 }
