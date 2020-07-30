@@ -9,6 +9,7 @@ This repository is nothing special, just my little *projects* while studying the
   - [Premise](#premise)
   - [Projects](#projects)
     - [Hello World](#hello-world)
+    - [Cliargs](#cliargs)
   - [License](#license)
 
 ## Premise
@@ -20,6 +21,10 @@ These projects are only examples I made these examples while studying Go and eve
 ### Hello World
 
 Guess what
+
+### Cliargs
+
+Get command line arguments
 
 ## License
 
