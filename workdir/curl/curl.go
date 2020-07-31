@@ -37,6 +37,7 @@ func main() {
 		os.Exit(1)
 	}
 	fmt.Println(string(data))
+	resp.Body.Close()
 
 	os.Exit(0)
 }
