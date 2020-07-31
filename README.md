@@ -10,6 +10,9 @@ This repository is nothing special, just my little *projects* while studying the
   - [Projects](#projects)
     - [Hello World](#hello-world)
     - [Cliargs](#cliargs)
+    - [Stdin](#stdin)
+    - [File-io](#file-io)
+    - [Data Types](#data-types)
   - [License](#license)
 
 ## Premise
@@ -18,6 +21,8 @@ These projects are only examples I made these examples while studying Go and eve
 
 ## Projects
 
+Projects are sorted by time.
+
 ### Hello World
 
 Guess what
@@ -25,6 +30,16 @@ Guess what
 ### Cliargs
 
 Get command line arguments
+
+### Stdin
+
+Read from stdin
+
+### File-io
+
+Perform I/O on files
+
+### Data Types
 
 ## License
 
