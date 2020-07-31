@@ -11,8 +11,9 @@ This repository is nothing special, just my little *projects* while studying the
     - [Hello World](#hello-world)
     - [Cliargs](#cliargs)
     - [Stdin](#stdin)
-    - [File-io](#file-io)
     - [Data Types](#data-types)
+    - [File-io](#file-io)
+    - [Curl](#curl)
   - [License](#license)
 
 ## Premise
@@ -35,11 +36,15 @@ Get command line arguments
 
 Read from stdin
 
+### Data Types
+
 ### File-io
 
 Perform I/O on files
 
-### Data Types
+### Curl
+
+Perform a GET to the provided URL
 
 ## License
 
