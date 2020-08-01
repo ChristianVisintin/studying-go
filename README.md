@@ -14,6 +14,7 @@ This repository is nothing special, just my little *projects* while studying the
     - [Data Types](#data-types)
     - [File-io](#file-io)
     - [Curl](#curl)
+    - [JSON](#json)
   - [License](#license)
 
 ## Premise
@@ -45,6 +46,10 @@ Perform I/O on files
 ### Curl
 
 Perform a GET to the provided URL
+
+### JSON
+
+Perform a JSON query to a JSON file
 
 ## License
 
